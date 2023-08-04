@@ -1,1 +1,0 @@
-{"Model": {"ModelName": "Gas Emission Prediction Model", "ModelType": "Regression", "ModelSummary": "This model provides predictions for CO gas emission in a tubine using sensor data"}, "Metrics": {"mean_absolute_error": {"threshold": "<=5"}, "mean_squared_error": {}}}
